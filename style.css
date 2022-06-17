@@ -1,4 +1,6 @@
-
+.name{
+    color:rgb(29, 28, 28);
+}
 .head1{
     background-color: rgb(185, 163, 135);
 }
@@ -12,7 +14,8 @@ p{
     color: #090e31;
 }
 .into{
-    color: aliceblue;
+
+    color:rgb(75, 74, 74);
 }
 .bob{
     background-color: rgb(247, 240, 231);
