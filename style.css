@@ -1,5 +1,11 @@
+.namename{
+    text-align: center
+}
 .name{
     color:rgb(29, 28, 28);
+}
+.career{
+    text-align: center
 }
 .head1{
     background-color: rgb(185, 163, 135);
